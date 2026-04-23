@@ -61,6 +61,7 @@ I build applications that solve real problems - from veterinary clinic managemen
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
 ### Core Knowledge Areas
@@ -69,7 +70,7 @@ I build applications that solve real problems - from veterinary clinic managemen
 |------|--------|
 | **Web Development** | Front-end & Back-end, REST APIs |
 | **Mobile Development** | iOS (SwiftUI), Android (Java) |
-| **Databases** | SQL Server, SQlite, Firebase |
+| **Databases** | SQL Server, SQlite, Firebase, MongoDb |
 | **Professional** | Team Collaboration, Problem-Solving, Fast Learner |
 
 ---
